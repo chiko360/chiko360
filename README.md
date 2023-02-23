@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is Chafik Maouche, a 23 yo CyberSecurity Engineer, flutter mobile developer, CTF player
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiko360&show_icons=true&locale=en&layout=compact" alt="chiko360" /></p>
